@@ -4,5 +4,5 @@
 
 - ⚡ Fun fact: **Platino en Rocket League**
 
-- :cat: Coco:
+- :cat: Mi gato:
 <img align="center" width="336" height="252" alt="coco" src="https://github.com/user-attachments/assets/1426c526-aa30-4112-91ec-e2d20175b13c" />
